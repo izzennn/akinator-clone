@@ -29,19 +29,19 @@ This is a simple Akinator-style game that runs in the terminal. The program trie
 - To determine the most informative question to ask next, the program computes the **variance** for each trait across all characters:
   - Let `T` be the total number of traits, and `C` be the number of characters.
   - For each trait, the program calculates the **Bernoulli variance**:  
-    \[
-    \text{Var}(X) = p(1 - p)
-    \]
-    where `p` is the proportion of characters that possess the trait.
+    
+  - `Var(X) = p(1 - p)`
+    
+  - where `p` is the proportion of characters that possess the trait.
 
 - The algorithm selects the trait (i.e., question) with the **maximum variance**, as this splits the set of remaining possibilities most evenly.
 
 - **Example:**  
-  Suppose there are 4 characters — 2 male and 2 female. For the trait `is_male`,  
-  \[
-  p = \frac{2}{4} = 0.5,\quad 1 - p = 0.5 \Rightarrow \text{Var} = 0.25
-  \]  
-  This indicates a perfect 50/50 split, making it an optimal question.
+  - Suppose there are 4 characters — 2 male and 2 female. For the trait `is_male`,  
+  
+  - `p = 2/4 = 0.5,    1 - p = 0.5 ---->    Var = 0.25`
+   
+  - This indicates a perfect 50/50 split, making it an optimal question.
 
 -- After selecting a question and receiving a user response, the program updates the probability of each character being the correct one using **Bayes' Theorem**:
 
