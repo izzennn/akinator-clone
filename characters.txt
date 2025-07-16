@@ -1,0 +1,107 @@
+Goku
+Can your character fly?,Does your character fight?,Is your character male?,Is your character from an anime?,Can your character go Super Saiyan?,Is your character from Dragon Ball?,Is your character best friends with Krillin?,Is your character made by Akira Toriyama?,Is your character a Saiyan?,Does your character have spiky hair?
+1,1,1,1,1,1,1,1,1,1
+SpongeBob SquarePants
+Is your character yellow?,Is your character male?,Does your character live underwater?,Does your character work for Krusty Krabs?,Is your character best friends with a Starfish?,Is your character a children's cartoon?,Does your character live in a pineapple?,Is your character absorbent?,Does your character laugh in a unique way?,Is your character a fry cook?
+1,1,1,1,1,1,1,1,1,1
+Homer Simpson
+Is your character yellow?,Is your character male?,Is your character bald?,Is your character from the show Simpsons?,Does your character work at a nuclear plant?,Is your character a father?,Does your character love donuts?,Is your character clumsy?,Is your character married to Marge?
+1,1,1,1,1,1,1,1,1,1
+Barack Obama
+Is your character real?,Is your character a politician?,Is your character male?,Has your character ever been president?,Has your character lived in a White House?,Is your character known for giving speeches?,Is your character associated with hope?,Is your character from Hawaii?,Did your character win a Nobel Peace Prize?
+1,1,1,1,1,1,1,1,1,1
+Hermione Granger
+Is your character from Harry Potter?,Does your character use magic?,Is your character intelligent?,Is your character a student?,Is your character from Gryffindor?,Is your character female?,Is your character known for her curly hair?,Is your character good at potions?,Is your character friends with Harry Potter?,Was your character raised by Muggles?,Does your character fight?
+1,1,1,1,1,1,1,1,1,1,1
+Iron Man
+Can your character fly?,Is your character a billionaire?,Is your character male?,Does your character wear a suit?,Does your character use technology?,Is your character from Marvel?,Is your character known as Tony Stark?,Does your character lead the Avengers?,Does your character have an arc reactor in his chest?,Does your character fight?
+1,1,1,1,1,1,1,1,1,1,1
+Taylor Swift
+Is your character real?,Is your character female?,Is your character a singer?,Does your character play guitar?,Did your character make the album 1989?,Is your character known for writing breakup songs?,Has your character won a Grammy?,Is your character tall?,Is your character known for country-to-pop transition?
+1,1,1,1,1,1,1,1,1,1
+Naruto Uzumaki
+Is your character from an anime?,Is your character male?,Does your character fight?,Can your character use ninjutsu?,Is your character blonde?,Does your character wear an orange outfit?,Is your character a ninja?,Is your character from Konoha?,Is your character known for saying "Believe it"?,Is your character the host of the Nine-Tails?
+1,1,1,1,1,1,1,1,1,1
+Albert Einstein
+Is your character real?,Is your character a scientist?,Is your character male?,Did your character develop the theory of relativity?,Is your character from the 20th century?,Is your character known for wild hair?,Is your character German?,Did your character win a Nobel Prize?,Did your character flee Nazi Germany?,Is your character known for E=mc²?
+1,1,1,1,1,1,1,1,1,1
+Elsa
+Is your character from a Disney movie?,Can your character use magic?,Is your character female?,Can your character control ice?,Does your character have a sister?,Is your character a queen?,Is your character blonde?,Is your character from Frozen?,Does your character sing "Let It Go"?,Was your character isolated?
+1,1,1,1,1,1,1,1,1,1
+Shrek
+Is your character green?,Is your character an ogre?,Is your character male?,Does your character live in a swamp?,Is your character from a DreamWorks movie?,Does your character have a Scottish accent?,Does your character rescue a princess?,Is your character friends with a donkey?,Does your character fight dragons?,Is your character grumpy?
+1,1,1,1,1,1,1,1,1,1
+Batman
+Is your character male?,Does your character fight crime?,Does your character have a cape?,Does your character use gadgets?,Is your character from Gotham City?,Is your character a billionaire?,Does your character have a secret identity?
+1,1,1,1,1,1,1,1
+Dora the Explorer
+Is your character a child?,Is your character female?,Does your character explore places?,Does your character speak Spanish?,Does your character have a backpack?,Does your character have a monkey friend?,Is your character from a children's show?,Does your character solve problems?
+1,1,1,1,1,1,1,1
+Michael Jordan
+Is your character real?,Is your character male?,Is your character a basketball player?,Has your character played for the Chicago Bulls?,Does your character have sneakers named after them?,Did your character win NBA championships?,Is your character considered a GOAT (Greatest of All Time)?
+1,1,1,1,1,1,1,1
+Daenerys Targaryen
+Is your character from Game of Thrones?,Can your character ride dragons?,Is your character female?,Does your character have white hair?,Does your character become queen?,Is your character known as the Mother of Dragons?,Does your character free slaves?,Is your character Targaryen?
+1,1,1,1,1,1,1,1
+Steve Jobs
+Is your character real?,Is your character male?,Was your character a CEO?,Did your character found Apple?,Is your character associated with iPhones?,Is your character known for wearing a black turtleneck?,Did your character revolutionize the tech industry?,Is your character known for giving speeches?
+1,1,1,1,1,1,1,1
+Pikachu
+Is your character yellow?,Is your character from an anime?,Does your character have electric powers?,Is your character an animal?,Is your character from Pokémon?,Does your character say their own name?,Is your character Ash's partner?,Is your character a mascot?,Does your character fight?
+1,1,1,1,1,1,1,1,1
+Queen Elizabeth II
+Is your character real?,Is your character female?,Is your character royal?,Is your character British?,Was your character a monarch?,Did your character reign for over 60 years?,Is your character associated with corgis?,Did your character live in Buckingham Palace?
+1,1,1,1,1,1,1,1
+Spider-Man
+Is your character male?,Does your character have spider powers?,Is your character a teenager?,Does your character fight crime as a teenager?,Does your character fight?,Is your character part of a multiverse?,Is your character from Marvel?
+1,1,1,1,1,1,1,1
+Luke Skywalker
+Is your character from Star Wars?,Is your character a Jedi?,Does your character use a lightsaber?,Is your character male?,Does your character fight?,Is your character the son of Darth Vader?,Is your character trained by Yoda?,Is your character a hero?
+1,1,1,1,1,1,1,1
+Darth Vader
+Is your character from Star Wars?,Is your character male?,Does your character use a lightsaber?,Is your character a Sith?,Does your character fight?,Is your character known as the chosen one?,Did your character wear a mask?,Is your character originally Anakin Skywalker?
+1,1,1,1,1,1,1,1
+Yoda
+Is your character from Star Wars?,Is your character a Jedi?,Is your character green?,Does your character use a lightsaber?,Does your character use the Force?,Is your character male?,Does your character fight?,Is your character wise?
+1,1,1,1,1,1,1,1
+R2-D2
+Is your character from Star Wars?,Is your character a robot?,Does your character use technology?,Is your character male?,Does your character communicate with beeps?,Is your character loyal?,Does your character assist the heroes?,Is your character small?
+1,1,1,0.5,1,1,1,1
+Sherlock Holmes
+Is your character intelligent?,Is your character male?,Is your character a detective?,Is your character British?,Does your character solve mysteries?,Is your character known for deduction?,Is your character fictional?,Does your character live at 221B Baker Street?
+1,1,1,1,1,1,1,1
+Mario
+Is your character from a video game?,Is your character male?,Can your character jump?,Is your character a plumber?,Is your character Italian?,Does your character rescue a princess?,Is your character wear a red hat?,Is your character from Nintendo?
+1,1,1,1,1,1,1,1
+Lara Croft
+Is your character from a video game?,Is your character female?,Does your character explore ancient places?,Is your character known for using guns?,Is your character an archaeologist?,Is your character athletic?,Does your character solve puzzles?,Is your character from Tomb Raider?
+1,1,1,1,1,1,1,1
+Link
+Is your character from a video game?,Does your character use a sword?,Is your character male?,Is your character from The Legend of Zelda?,Does your character wear a green tunic?,Does your character fight evil?,Is your character silent?,Can your character use a shield?
+1,1,1,1,1,1,1,1
+Gandalf
+Is your character from Middle-earth?,Is your character male?,Does your character use magic?,Is your character wise?,Is your character a wizard?,Does your character fight with a staff?,Is your character known for wearing grey or white robes?,Is your character from Lord of the Rings?
+1,1,1,1,1,1,1,1
+Frodo Baggins
+Is your character from Middle-earth?,Is your character male?,Is your character a hobbit?,Is your character on a quest?,Is your character short?,Does your character carry a ring?,Is your character from Lord of the Rings?,Does your character have curly hair?
+1,1,1,1,1,1,1,1
+Chandler Bing
+Is your character from a sitcom?,Is your character male?,Is your character sarcastic?,Is your character from Friends?,Does your character work in an office?,Is your character known for bad jokes?,Is your character married to Monica?
+1,1,1,1,1,1,1,1
+Captain Jack Sparrow
+Is your character a pirate?,Is your character male?,Does your character use a sword?,Is your character from Pirates of the Caribbean?,Does your character wear a hat?,Is your character eccentric?,Is your character played by Johnny Depp?,Does your character own a ship?
+1,1,1,1,1,1,1,1
+Captain America
+Is your character from Marvel?,Does your character fight?,Is your character male?,Does your character use a shield?,Was your character frozen in ice?,Is your character a super soldier?,Is your character a leader of the Avengers?
+1,1,1,1,1,1,1,1
+Thor
+Is your character from Marvel?,Does your character use a hammer?,Can your character fly?,Is your character male?,Does your character fight?,Is your character a god?,Is your character from Asgard?,Is your character the son of Odin?
+1,1,1,1,1,1,1,1
+Black Widow
+Is your character from Marvel?,Is your character female?,Does your character fight?,Does your character use gadgets?,Is your character a spy?,Does your character wear black?,Is your character Russian?,Is your character an Avenger?
+1,1,1,1,1,1,1,1
+Hulk
+Is your character green?,Does your character fight?,Is your character male?,Is your character from Marvel?,Does your character transform?,Is your character a scientist?,Is your character known for smashing things?
+1,1,1,1,1,1,1,1
+
+
